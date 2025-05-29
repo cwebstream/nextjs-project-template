@@ -1,0 +1,15 @@
+[8701] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8702] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8703] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8704] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8705] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8688] [Thu May 29 05:43:11 2025] PHP 8.2.13 Development Server (http://0.0.0.0:8000) started
+[8704] [Thu May 29 05:43:32 2025] 127.0.0.1:48924 Accepted
+[8704] [Thu May 29 05:43:32 2025] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[8704] [Thu May 29 05:43:32 2025] 127.0.0.1:48924 Closing
+[8703] [Thu May 29 05:43:32 2025] 127.0.0.1:48930 Accepted
+[8703] [Thu May 29 05:43:32 2025] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[8703] [Thu May 29 05:43:32 2025] 127.0.0.1:48930 Closing
+[8703] [Thu May 29 05:43:32 2025] 127.0.0.1:48942 Accepted
+[8703] [Thu May 29 05:43:32 2025] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[8703] [Thu May 29 05:43:32 2025] 127.0.0.1:48942 Closing
