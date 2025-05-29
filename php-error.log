@@ -1,0 +1,14 @@
+[29-May-2025 05:43:32 UTC] Requested path: /registration.php
+[29-May-2025 05:43:32 UTC] Full path: /project/sandbox/user-workspace/registration.php
+[29-May-2025 05:43:32 UTC] File exists: yes
+[29-May-2025 05:43:32 UTC] File extension: php
+[29-May-2025 05:43:32 UTC] Requested path: /css/tailwind.css
+[29-May-2025 05:43:32 UTC] Full path: /project/sandbox/user-workspace/css/tailwind.css
+[29-May-2025 05:43:32 UTC] File exists: yes
+[29-May-2025 05:43:32 UTC] File extension: css
+[29-May-2025 05:43:32 UTC] Serving CSS file
+[29-May-2025 05:43:32 UTC] Serving file: /project/sandbox/user-workspace/css/tailwind.css
+[29-May-2025 05:43:32 UTC] Requested path: /favicon.ico
+[29-May-2025 05:43:32 UTC] Full path: /project/sandbox/user-workspace/favicon.ico
+[29-May-2025 05:43:32 UTC] File exists: no
+[29-May-2025 05:43:32 UTC] 404 Not Found: /favicon.ico
